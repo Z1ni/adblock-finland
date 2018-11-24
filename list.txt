@@ -1,8 +1,8 @@
 [Adblock]
-! Version: 20181024-zini
-! Title: Adblock List for Finland - zini fork
+! Version: 20181124
+! Title: Adblock List for Finland
 ! Description: Finnish adblock list
-! Last modified: 24th of October 2018
+! Last modified: 24th of November 2018
 ! Expires: 7 days (update frequency)
 ! License: http://unlicense.org/
 
@@ -141,6 +141,9 @@ tyda.se#@#DIV[class*="advert"]
 ! eu cookie stuff
 ##DIV[id="cookieprivacy"]
 ##DIV[class*="pea_cook_wrapper"]
+
+! Aamulehti anti-adblock message
+aamulehti.fi##.sc-kDhYZr.fKjNmg
 
 aamulehti.fi##DIV[class="adContainer nobg opaque"]
 aamulehti.fi##div.adContainer
